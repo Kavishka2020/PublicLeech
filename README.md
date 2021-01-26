@@ -22,7 +22,7 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
     ✓
     ===========[MaxxRider]=========
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImJanindu/PublicLeech/tree/HEROKU-SUPPORT-TEST)
 
 
 ## Credits, and Thanks to
